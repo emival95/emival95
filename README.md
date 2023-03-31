@@ -18,7 +18,6 @@
 </div><br/>
 
 Bacharelado em Sistemas da Informação pela Universidade Anhanguera do Distrito Federal. 
-Estou em busca de oportunidade em qualidade de software (QA - Quality Software).
 
 Conhecimento em linguagem de programação (JAVA, Phyton);
 Conhecimento em automação de testes de API com RestAssured, Java, Junit, Maven, Allure report;
@@ -31,4 +30,4 @@ teste automatizado.
 Conhecimento em SQl
 
 
-Desejo atuar como QA em projetos de tecnologia, sempre buscando a garantia da qualidade com apoio da equipe e apoiando o projeto com meu crescimento profissional.
+
