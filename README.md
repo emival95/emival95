@@ -19,7 +19,7 @@
 
 Bacharelado em Sistemas da Informação pela Universidade Anhanguera do Distrito Federal. 
 
-Conhecimento em linguagem de programação (JAVA, Phyton);
+Conhecimento em linguagem de programação (JavaScript, Phyton);
 Conhecimento em automação de testes de API com RestAssured, Java, Junit, Maven, Allure report;
 Conhecimento em automação de testes web com Selenium.
 Conhecimento em Git/GitHub.
